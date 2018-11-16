@@ -7,11 +7,11 @@ Number and name of feature: #1 Refactor the CSS
 
 Estimate of time needed to complete: 1.5 hour
 
-Start time: _____
+Start time: 9:45am
 
-Finish time: _____
+Finish time: 10:50am
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour, 5 min
 
 --------
 
