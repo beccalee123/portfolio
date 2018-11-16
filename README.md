@@ -19,7 +19,7 @@ Number and name of feature: #2 Modify the Contents
 
 Estimate of time needed to complete: 1.5 hours
 
-Start time: 11:00am
+Start time: 11:00am (paused at 11:50)
 
 Finish time: _____
 
