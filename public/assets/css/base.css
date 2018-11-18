@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
-	line-height: 1;
+  line-height: 1;
 }
 
 body {
@@ -49,8 +49,8 @@ html {
 
 body {
   background: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 19pt;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 18pt;
   font-weight: 300;
   line-height: 1.75em;
   color: #888;
