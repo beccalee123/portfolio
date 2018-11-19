@@ -23,4 +23,30 @@ Start time: 11:00am (paused at 11:50, started again at 1:06)
 
 Finish time: 1:49pm
 
-Actual time needed to complete: A little under 2 hours
+Actual time needed to complete: A little under 2 hours, then another 2-3 hours on Sunday
+
+--------
+
+## Lab Part 2 Time Estimates
+
+Number and name of feature: #1 Add Functionality
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
+
+--------
+
+Number and name of feature: #2 Responsive Web Design
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
