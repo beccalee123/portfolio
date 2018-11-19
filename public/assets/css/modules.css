@@ -46,17 +46,25 @@ input, textarea, select {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
-  color: #666;
+  color: #0b3a4d;
   line-height: 1.5em;
 }
 
+p {
+  color: #0b3a4d;
+}
+
+#top header {
+  background-color: rgba(255, 255, 255, 0.253);
+}
+
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  color: inherit;
+  color: #0b3a4d;;
   text-decoration: none;
 }
 
   h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-    color: #333;
+    color: #0b3a4d;
   }
 
 h2 {
@@ -65,11 +73,11 @@ h2 {
 }
 
   h2.alt {
-    color: #888;
+    color: #0b3a4d;
   }
 
     h2.alt strong {
-      color: #666;
+      color: #0b3a4d;;
     }
 
 h3 {
@@ -90,7 +98,7 @@ footer {
 
 strong, b {
   font-weight: 300;
-  color: #666;
+  color: #0b3a4d;
 }
 
 em, i {
@@ -99,7 +107,7 @@ em, i {
 
 a {
   text-decoration: none;
-  color: inherit;
+  color: #0b3a4d;
   border-bottom: dotted 1px rgba(128, 128, 128, 0.5);
   -moz-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
   -webkit-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
@@ -109,7 +117,7 @@ a {
 }
 
   a:hover {
-    color: #E27689;
+    color: #69bad3;
     border-bottom-color: rgba(255, 255, 255, 0);
   }
 
@@ -176,7 +184,7 @@ section, article {
   .image.avatar48 {
     width: 48px;
     height: 48px;
-    background: #f00;
+    background: #0b3a4d;
   }
 
     .image.avatar48 img {
@@ -385,7 +393,7 @@ button,
   input[type="reset"]:hover,
   button:hover,
   .button:hover {
-    background-color: #9ececc;
+    background-color: #69bad3;
   }
 
   input[type="button"]:active,
@@ -393,7 +401,7 @@ button,
   input[type="reset"]:active,
   button:active,
   .button:active {
-    background-color: #7eaeac;
+    background-color: #69bad3;
   }
 
 /* Item */
@@ -451,7 +459,7 @@ button,
   -webkit-justify-content: space-between;
   -ms-justify-content: space-between;
   justify-content: space-between;
-  background: #222629 url("images/overlay.png");
+  background: #0b3a4d; url("images/overlay.png");
   box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
   color: #fff;
   height: 100%;
@@ -488,7 +496,7 @@ button,
   }
 
     #header .icons a {
-      color: #41484c;
+      color: rgb(105, 186, 211);
       -moz-transition: color 0.35s ease-in-out;
       -webkit-transition: color 0.35s ease-in-out;
       -ms-transition: color 0.35s ease-in-out;
@@ -542,7 +550,7 @@ button,
     #nav ul li a {
       display: block;
       padding: 0.5em 1.5em 0.5em 1.5em;
-      color: rgba(255, 255, 255, 0.5);
+      color: rgba(255, 255, 255, 0.541);
       text-decoration: none;
       outline: 0;
       border: 0;
@@ -561,7 +569,7 @@ button,
         #nav ul li a span:before {
           position: absolute;
           left: 0;
-          color: #41484c;
+          color: #69bad3;
           text-align: center;
           width: 1.25em;
           line-height: 1.75em;
@@ -574,7 +582,7 @@ button,
       }
 
         #nav ul li a.active span:before {
-          color: #e27689;
+          color: #fff;
         }
 
 /* Footer */
@@ -628,11 +636,11 @@ button,
     }
 
       #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
-        color: inherit;
+        color: #0b3a4d;
       }
 
       #main > section.dark strong {
-        color: #fff;
+        color: rgb(105, 186, 211);
         border-color: inherit;
       }
 
