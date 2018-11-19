@@ -661,7 +661,7 @@ button,
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/header-image.jpg");
+      background-image: url("/public/images/header-image.jpg");
     }
 
     #main > section.two {
