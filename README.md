@@ -35,9 +35,9 @@ Estimate of time needed to complete: 2 hours
 
 Start time: 9:50 am
 
-Finish time: 
+Finish time: 11:58
 
-Actual time needed to complete: 
+Actual time needed to complete: 2 hours and 8 minutes, but still need to do the carousel or video image in the header
 
 --------
 
