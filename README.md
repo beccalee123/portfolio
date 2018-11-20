@@ -33,20 +33,8 @@ Number and name of feature: #1 Add Functionality
 
 Estimate of time needed to complete: 2 hours
 
-Start time: 9:50 am
+Start time: 9:50 am, then 9:30pm
 
-Finish time: 11:58
+Finish time: 11:58 am, then 10pm
 
-Actual time needed to complete: 2 hours and 8 minutes, but still need to do the carousel or video image in the header
-
---------
-
-Number and name of feature: #2 Responsive Web Design
-
-Estimate of time needed to complete: 2 hours
-
-Start time: 
-
-Finish time: 
-
-Actual time needed to complete: 
+Actual time needed to complete: Roughly 2 hours and 45 minutes
