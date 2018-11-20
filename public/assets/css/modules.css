@@ -656,21 +656,28 @@ button,
 
     #main > section.cover {
       padding: 10em 0;
-      background-size: cover;
       background-position: center center;
+    }
+
+    .video {
+      width: 100%;
+      overflow: hidden;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: -1000;
     }
 
     video {
       z-index: -1;
-      height: 100%;
-      position: absolute;
-      top: 0;
-      left: 0;
-      overflow: hidden;    
+      height: 800px;
+      /* max-width: 250%; */
+      overflow: hidden;
     }
 
     #main > section.two {
       background-color: #f5fafa;
+      width: 100%;
     }
 
     #main > section.three {
