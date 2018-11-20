@@ -55,11 +55,11 @@ p {
 }
 
 #top header {
-  background-color: rgba(255, 255, 255, 0.253);
+  background-color: #1a232793;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  color: #0b3a4d;;
+  color: #0b3a4d;
   text-decoration: none;
 }
 
@@ -67,17 +67,18 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     color: #0b3a4d;
   }
 
+
 h2 {
   font-size: 2em;
   letter-spacing: -1px;
 }
 
   h2.alt {
-    color: #0b3a4d;
+    color: #fff;
   }
 
     h2.alt strong {
-      color: #0b3a4d;;
+      color: #fff;;
     }
 
 h3 {
@@ -636,7 +637,7 @@ button,
     }
 
       #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
-        color: #0b3a4d;
+        color: #fff;
       }
 
       #main > section.dark strong {
@@ -659,9 +660,13 @@ button,
       background-position: center center;
     }
 
-    #main > section.one {
-      background-color: #81918E;
-      background-image: url("images/field-image.jpg");
+    video {
+      z-index: -1;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      overflow: hidden;    
     }
 
     #main > section.two {

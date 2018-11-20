@@ -38,15 +38,3 @@ Start time: 9:50 am
 Finish time: 11:58
 
 Actual time needed to complete: 2 hours and 8 minutes, but still need to do the carousel or video image in the header
-
---------
-
-Number and name of feature: #2 Responsive Web Design
-
-Estimate of time needed to complete: 2 hours
-
-Start time: 
-
-Finish time: 
-
-Actual time needed to complete: 
